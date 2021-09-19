@@ -1,13 +1,12 @@
+"""
 - 👋 Hi, I’m @vishalkoshti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computantional mechancis.
+- 🌱 I’m currently learning BE in Mechanical Engineering
+- 💞️ I’m looking to collaborate on MATLAB
+- 📫 You can reach through mail vishalkoshti97@gmail.com
 
-<!---
-vishalkoshti/vishalkoshti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+"""
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
